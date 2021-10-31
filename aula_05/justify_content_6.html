@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .item{
+      margin: 5px;
+      padding: 5px;
+      background: #047;
+      text-align: center;
+      font-size: 1em;
+      color: #fff;
+    }
+
+    .container{
+      max-width: 600px;
+      margin: 0 auto;
+      border: 1px solid black;
+      justify-content: space-evenly;
+    }
+
+    .flexivel{
+      display: flex;
+    }
+
+    .horizontal{
+      flex-direction: row;   /* é o padrão */
+    }
+
+    .vertical{
+      flex-direction: column;
+    }
+
+    .quebra{
+      flex-wrap: wrap;
+    }
+
+    body{
+      font-family: Arial;
+      color: #000;
+    }
+
+    h2, h3{
+      text-align: center;
+    }
+  </style>
+  <title>CSS - Flexbox</title>
+</head>
+<body>
+
+  <h2>justify-content: space-evenly</h2>
+
+  <div class="container flexivel horizontal quebra">
+    <div class="item">CFB Cursos 1</div>
+    <div class="item">CFB Cursos 2</div>
+    <div class="item">CFB Cursos 3</div>
+  </div>
+
+</body>
+</html>
