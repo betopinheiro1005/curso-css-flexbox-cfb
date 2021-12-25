@@ -1,8 +1,7 @@
 # Curso de CSS - FlexBox  
 ## CFB Cursos (Bruno Pinho Campos)  
 
-### Link dos Vídeos  
-<https://www.youtube.com/watch?v=z1Hp72GVHJk&list=PLx4x_zx8csUhDWtEa-AtDAgSSmLObBVaz>
+### [Vídeos do curso](https://www.youtube.com/watch?v=z1Hp72GVHJk&list=PLx4x_zx8csUhDWtEa-AtDAgSSmLObBVaz)
 
 ### Lista de aulas  
 
